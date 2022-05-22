@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 100px;
+    color: rgba(0, 0, 0, .87);
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.5;
+}
